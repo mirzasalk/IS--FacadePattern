@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\7.Informacioni\domaci2\domaci2\bin\Debug\domaci2.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\7.Informacioni\domaci2\domaci2\bin\Debug\domaci2.exe
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\7.Informacioni\domaci2\domaci2\bin\Debug\domaci2.pdb
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\7.Informacioni\domaci2\domaci2\obj\Debug\domaci2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\7.Informacioni\domaci2\domaci2\obj\Debug\domaci2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\7.Informacioni\domaci2\domaci2\obj\Debug\domaci2.exe
+C:\Users\Korisnik\Desktop\Fakultet\Preostali\7.Informacioni\domaci2\domaci2\obj\Debug\domaci2.pdb
